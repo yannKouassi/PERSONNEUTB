@@ -1,0 +1,30 @@
+_____Enregistrement du 2026-01-14T19:24:26.101Z_____
+	Le nom est : KOUASSI
+	Le prenom est : YANNICK
+	L'age est : 23
+	Le matricule est : UT44RR
+	Le sexe est : MASCULIN
+	La profession est : ETUDIANT
+
+ 
+
+_____Enregistrement du 2026-01-14T19:24:51.502Z_____
+	Le nom est : OCHOU
+	Le prenom est : GRACE
+	L'age est : 23
+	Le matricule est : UTB76VF
+	Le sexe est : FEMININ
+	La profession est : ETUDIANT
+
+ 
+
+_____Enregistrement du 2026-01-14T19:52:15.413Z_____
+	Le nom est : IRIE
+	Le prenom est : EMMANUEL
+	L'age est : 22
+	Le matricule est : UTBB34
+	Le sexe est : MASCULIN
+	La profession est : ETUDIANT
+
+ 
+
